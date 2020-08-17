@@ -46,4 +46,5 @@ Designed and Implemented jpeg encoder and decoder on FPGA.
 - **IPA Security camp 2017 optional course**
 
 # OSS Contributions
+- **[llvm-project](https://github.com/llvm/llvm-project/search?q=Yuichi+Sugiyama&type=Commits)**
 - **[rsd](https://github.com/rsd-devel/rsd/commits/master?author=mmxsrup)**
