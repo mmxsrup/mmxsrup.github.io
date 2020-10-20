@@ -35,6 +35,8 @@ Designed and Implemented a deep learning processor using RISC-V Core and Matrix 
 Designed and Implemented jpeg encoder and decoder on FPGA.
 
 # Activities
+- **IPA Security camp 2020 TA**
+
 - **[IPA The MITOH Project 2020](https://www.ipa.go.jp/jinzai/mitou/2020/gaiyou_tn-1.html)**
 
 - **[Google Summer of Code 2020 lowRISC Project](https://summerofcode.withgoogle.com/projects/#5519318206382080)**
