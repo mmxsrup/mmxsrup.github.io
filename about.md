@@ -7,8 +7,10 @@ permalink: /about/
 # Yuichi Sugiyama
 I'm a master's student an The University of Tokyo who's interedted in software/hardware security.
 
-**Twitter:** {% include icon-twitter.html username="mmxsrup" %}
+**Twitter:** {% include icon-twitter.html username="mmxsrup" %}  
 **Github:** {% include icon-github.html username="mmxsrup" %}  
+**Blog(Japanese):** {http://mmxsrup.hatenablog.com/}  
+**Blog(Japanese):** {https://qiita.com/mmxsrup}
 
 # Education
 - **M.E. program at The University of Tokyo**  
