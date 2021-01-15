@@ -22,7 +22,7 @@ I'm a master's student an The University of Tokyo who's interedted in software/h
 # Work Experiences
 - **Internship at Mercari**  
 *August 2020 - September 2020*  
-Developed a static analysis tool.
+Developed a static analysis tool written in Go.
 
 - **Software/Hardware enginner at WaveArrays, inc**  
 *December 2017 - March 2020, Hyogo*  
