@@ -45,7 +45,7 @@ Designed and Implemented jpeg encoder and decoder on FPGA.
 
 - **[IPA The MITOU Project 2020](https://www.ipa.go.jp/jinzai/mitou/2020/gaiyou_tn-1.html)**
 
-- **[Google Summer of Code 2020 lowRISC Project](https://summerofcode.withgoogle.com/projects/#5519318206382080)**
+- **[Google Summer of Code 2020 lowRISC Project](https://summerofcode.withgoogle.com/archive/2020/projects/5950588879110144/)**
 
 - **[ICPC 2019 Asia Yokohama Regional](https://icpc.iisf.or.jp/2019-yokohama/)**
 
