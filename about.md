@@ -54,7 +54,7 @@ Designed and Implemented jpeg encoder and decoder on FPGA.
 - **IPA Security camp 2017 optional course**
 
 # Awards
-- **[MITOU Super Creator 2020](https://www.meti.go.jp/english/press/2021/0528_003.html)**
+- **[IPA The MITOU Project 2020 Super Creator](https://www.meti.go.jp/english/press/2021/0528_003.html)**
 
 # OSS Contributions
 - **[LLVM](https://github.com/llvm/llvm-project/search?q=Yuichi+Sugiyama&type=Commits)**
