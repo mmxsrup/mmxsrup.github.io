@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 # Yuichi Sugiyama
-I'm a master's student an The University of Tokyo who's interedted in software/hardware security.
+I'm a master's student at The University of Tokyo who is interedted in software/hardware security.
 
 **Twitter:** {% include icon-twitter.html username="mmxsrup" %}  
 **Github:** {% include icon-github.html username="mmxsrup" %}  
