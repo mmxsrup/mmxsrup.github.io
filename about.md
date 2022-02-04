@@ -20,6 +20,10 @@ I'm a master's student an The University of Tokyo who's interedted in software/h
 *April 2016 - March 2020*
 
 # Work Experiences
+- **Internship at PEZY Computing**  
+*August 2021 - October 2021*  
+Developed a processor test tool.
+
 - **Internship at Mercari**  
 *August 2020 - September 2020*  
 Developed a static analysis tool written in Go.
