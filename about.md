@@ -60,6 +60,9 @@ Designed and Implemented jpeg encoder and decoder on FPGA.
 # Awards
 - **[IPA The MITOU Project 2020 Super Creator](https://www.meti.go.jp/english/press/2021/0528_003.html)**
 
+# Articles
+- **[ARMored CoreSight: Towards Efficient Binary-only Fuzzing](https://ricercasecurity.blogspot.com/2021/11/armored-coresight-towards-efficient.html)**
+
 # OSS Contributions
 - **[LLVM](https://github.com/llvm/llvm-project/search?q=Yuichi+Sugiyama&type=Commits)**
 - **[Ibex](https://github.com/lowRISC/ibex/commits?author=mmxsrup)**
