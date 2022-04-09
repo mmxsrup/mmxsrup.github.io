@@ -14,7 +14,7 @@ I'm a master's student at The University of Tokyo who is interedted in software/
 
 # Education
 - **M.E. program at The University of Tokyo**  
-*April 2020 - present*
+*April 2020 - March 2022*
 
 - **B.S at Kobe University**  
 *April 2016 - March 2020*
